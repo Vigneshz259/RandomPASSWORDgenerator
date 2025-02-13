@@ -1,0 +1,13 @@
+project of Random Password Generator.
+
+Right now i have added Password generate
+ button and password output field only.
+
+**** in future planning to add Copy the 
+generated code into clipboard. ***
+
+**** Could be a good idea where keeping one input
+option where user can give Random names or something which should be 
+used prefix or suffix in his password.****
+
+
