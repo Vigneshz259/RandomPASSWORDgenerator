@@ -6,7 +6,7 @@ function generate_password() {
   let password = "";
   let possible =
     "ABCDFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789~!@#$%^&*";
-  for (i = 0; i < 15; i++) {
+  for (i = 0; i < 12; i++) {
     password += possible.charAt(Math.floor(Math.random() * possible.length));
   }
   passwordInput.value = password;
